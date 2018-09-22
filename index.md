@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/tanaka-takayoshi/tanaka-takayoshi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have been a software developer for 10+ years. My most favorite language is C#. I have been a Microsoft MVP since Jul 2013. When you ask me to write articles or make presentations, you're welcome to contact me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Position
 
-### Markdown
+I'm a software Maintenance Engineer at Red Hat K.K. (Japan) and in charge of the following things:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- OpenShift Container Platform
+- Red Hat products on Azure & Azure Stack (mainly, RHEL and OpenShift)
+- .NET Core on RHEL
+- SQL Server on RHEL
 
-```markdown
-Syntax highlighted code block
+I'm also interested in the following things personally.
 
-# Header 1
-## Header 2
-### Header 3
+- Microsoft Quantum (Q# and topological quantum computing)
+- Writing a library and a VSIX tool with C#
 
-- Bulleted
-- List
+I have been making presentations in a community group about the above themes. You can see some of them in the [Public Speaking](#Public-Speaking) section.
 
-1. Numbered
-2. List
+### Public Speaking
 
-**Bold** and _Italic_ and `Code` text
+### Blog Sites
 
-[Link](url) and ![Image](src)
-```
+- [Personal Blog in Japanese](https://tech.tanaka733.net/)
+- [Personal Blog in English](https://tech.en.tanaka733.net/)
+- [Red Hat Debelopers](https://developers.redhat.com/blog/author/rhtakayoshitanaka/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contents
 
-### Jekyll Themes
+- [Presentations](https://www.slideshare.net/tanakata/presentations)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanaka-takayoshi/tanaka-takayoshi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+‐ [SpeakerHub]()
+- [Twitter]()
+- [LinkedIn]()
