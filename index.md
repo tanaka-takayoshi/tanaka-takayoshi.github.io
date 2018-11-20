@@ -26,14 +26,16 @@ I have been making presentations in a community group about the above themes. Yo
 - [Azure Cloud Provier in OpenShift 3.10 at London OpenShift meetup](https://www.slideshare.net/tanakata/new-features-of-azure-cloud-provider-in-openshift-container-platform-310)
 - [OpenShift on Azure Stack at London OpenShift meetup](https://www.slideshare.net/tanakata/open-shift-on-azure-stack)
 - [SQL Server on RHEL](https://www.slideshare.net/tanakata/introduction-to-sql-server-on-rhel)
-- [.NET Core on OpenShift at London OpenShift meetup]()
+- [.NET Core on OpenShift at London OpenShift meetup](https://www.slideshare.net/tanakata/deep-dive-openshitt-on-azure-net-core-on-openshift)
 - [Getting Started with Microsoft Azure at Red Hat Tech Exchange APAC 2016](https://rhte2016.sched.com/event/894x/getting-started-with-microsoft-azure)
 - [An introduction to .NET core on RHEL at Red Hat Tech Exchange APAC 2016](https://rhte2016.sched.com/event/895A/an-introduction-to-net-core-on-rhel)
 
 #### Japanese
 
+- [Q# ハンズオン](http://www.tanaka733.net/QSharp-Handson/)
+- [Q# 基礎](https://www.slideshare.net/tanakata/q-ver11)
 - Q# Coding Contest振り返り
-- ゼロから始めるQ#
+- [ゼロから始めるQ#](https://www.slideshare.net/tanakata/q-117200034)
 - [Developing & Deploying .NET Core on Linux](https://www.slideshare.net/tanakata/20170311-developing-deploying-net-core-on-linux)
 - [ASP.NET Core のお気に入りの機能たち (docker向け)](https://www.slideshare.net/tanakata/aspnet-core-docker-81037744)
 
