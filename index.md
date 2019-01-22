@@ -32,6 +32,7 @@ I have been making presentations in a community group about the above themes. Yo
 
 #### Japanese
 
+- [AKS Best Practices 解説(動画)](https://www.youtube.com/watch?v=YFoVGgWbOQc&feature=youtu.be)
 - [Q# ハンズオン](http://www.tanaka733.net/QSharp-Handson/)
 - [Q# 基礎](https://www.slideshare.net/tanakata/q-ver11)
 - Q# Coding Contest振り返り
@@ -50,6 +51,15 @@ I have been making presentations in a community group about the above themes. Yo
 - [Presentations](https://www.slideshare.net/tanakata/presentations)
 - [C# 6.0で知っておくべき12の新機能](https://www.buildinsider.net/language/csharplang/0600)
 - [連載：コードから触るIIS 8](https://www.buildinsider.net/web/iis8)
+
+### Products
+
+- [Chatwork API (NuGet)](https://www.nuget.org/packages/Chatwork.Api/)
+- [NLog.Targets.AmazonSNS (NuGet)](https://www.nuget.org/packages/NLog.Targets.AmazonSNS/)
+- [OpenShift Client C# SDK (NuGet)](https://www.nuget.org/packages/OpenShift.Service.Core/)
+- [OpenShift for VisualStudio (Visual Studio Marketplace)](https://marketplace.visualstudio.com/items?itemName=tanaka733.vstoolsforopenshifttanaka733)
+- [Open for PSCmdlet (Visual Studio Marketplace)](https://marketplace.visualstudio.com/items?itemName=tanaka733.OpenForPSCmdlet)
+- [CsProjUtil (Visual Studio Marketplace)](https://marketplace.visualstudio.com/items?itemName=tanaka733.CsProjUtil)
 
 ### Contact
 
