@@ -1,7 +1,7 @@
 ## About me
 
 I have been a software developer for 10+ years. My most favorite language is C#. I have been a Microsoft MVP since Jul 2013. When you ask me to write articles or make presentations, you're welcome to [contact me](#contact).
-I'm a doctor of Seience (Physics). [Here](https://scholar.google.co.jp/citations?user=qR0zzd4AAAAJ&hl=ja) is my article list.
+I'm a doctor of Science (Physics). [Here](https://scholar.google.co.jp/citations?user=qR0zzd4AAAAJ&hl=ja) is my article list.
 
 ### Current Position
 
@@ -60,6 +60,7 @@ I have been making presentations in a community group about the above themes. Yo
 
 ### Certification
 
+- [AWS Certified Solution Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-06-03&ci=AWS00896804)
 - [AWS Certified Cloud Practitioner](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-05-20&ci=AWS00896804)
 
 ![](./images/AWS_Certified_Logo_294x230_Color.png)
