@@ -7,12 +7,15 @@ AWS上でのWindows Server/IIS/ASP.NET Coreの運用経験、一方Azure上で�
 
 ### 現職
 
-[New Relic 株式会社](https://newrelic.co.jp/)のシニアテクニカルサポートエンジニア
+[New Relic 株式会社](https://newrelic.co.jp/)のテクニカルサポートマネージャー
 
 個人的には次の技術に興味を持っています。
 
 - パブリッククラウド (Microsoft Azure, AWS, GCP など)
 - C# (.NET Core, ASP.NET Core, Visual Studio拡張)
+- OpenTelemetry
+- Radius
+- kubernetes
 - Microsoft Quantum (Q# およびトポロジカル量子コンピューター)
 
 ### Public Speaking

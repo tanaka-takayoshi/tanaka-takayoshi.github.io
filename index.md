@@ -5,14 +5,17 @@ I'm a doctor of Science (Physics). [Here](https://scholar.google.co.jp/citations
 
 ### Current Position
 
-I'm a senior technical support enginner at [New Relic K.K. (Japan)](https://newrelic.co.jp/).
+I'm a technical support manager at [New Relic K.K. (Japan)](https://newrelic.co.jp/).
 
 I'm also interested in the following things personally.
 
 - public cloud technology (Microsoft Azure, AWS, GCP and so on)
 - C# (.NET Core, ASP.NET Core, Visual Studio Extension and Visual Studio Tools for Office)
+- OpenTelemetry
+- Radius
+- kubernetes
 - Microsoft Quantum (Q# and topological quantum computing)
-- Writing a library and a VSIX tool with C#
+
 
 I have been making presentations in a community group about the above themes. You can see some of them in the [Public Speaking](#public-speaking) section.
 
